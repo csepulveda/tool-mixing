@@ -8,7 +8,8 @@ We are going to concat Viginti Tres (5:04) and Wings For Marie (6:13) then Merge
 ## How to build
 clone the repo then
 
-```cd tool-mixing
+```
+cd tool-mixing
 docker build . -t tool-mixing
 ```
 
