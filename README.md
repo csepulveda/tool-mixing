@@ -9,7 +9,8 @@ We are going to concat Viginti Tres (5:04) and Wings For Marie (6:13) then Merge
 clone the repo then
 
 ```cd tool-mixing
-docker build . -t tool-mixing```
+docker build . -t tool-mixing
+```
 
 ## How to run
 `docker run --rm --user $UID:$GID -v $PWD:/downloads  tool-mixing`
